@@ -72,6 +72,9 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
     implementation("androidx.activity:activity-ktx:1.7.2")
 
+    //coil
+    implementation("io.coil-kt:coil:1.1.1")
+
 
 }
 
